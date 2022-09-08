@@ -4,13 +4,7 @@
 - 🌱 I’m currently working with Java on my job.
 - 🤖 I'm currently learning CyberSecurity as well.
 - 😄 Pronouns: he, his.
-- 
-<div align="center">
-  <a href="https://github.com/SoderJuliano">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SoderJuliano&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SoderJuliano&layout=compact&langs_count=7&theme=dark"/>
-</div>
-  
+
 <div align="center">
   <a href="https://github.com/SoderJuliano">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SoderJuliano&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
