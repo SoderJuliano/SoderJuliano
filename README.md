@@ -12,3 +12,10 @@
 </div>
 
 ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+
+ 
+### :eyes: Visualizações do perfil 
+<p align="center">
+ 
+![Visitor Count](https://profile-counter.glitch.me/{SoderJuliano}/count.svg)
+</p>
