@@ -103,13 +103,17 @@ const juliano: SoftwareEngineer = {
 
 </div>
 
+## 💼 // professional.work
+
+> [!NOTE]
+> Most of my professional work lives in **private organization repos**, under my work accounts:
+>
+> - 🔗 [**@Juliano-Soder**](https://github.com/Juliano-Soder)
+> - 🔒 `juliano-soder_gcb` — enterprise-managed account, only visible when signed in with a corporate Microsoft account
+
 <br/>
 
 <div align="center">
-
-```text
-> The quieter you become, the more you are able to hear._
-```
 
 <sub>Header font: <a href="https://www.fontspace.com/glitch-goblin-font-f94950">Glitch Goblin</a> by GGBotNet — SIL OFL (see <code>assets/fonts</code>)</sub>
 
