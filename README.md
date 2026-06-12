@@ -14,7 +14,7 @@
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=00F0FF&center=true&vCenter=true&width=700&lines=Software+Engineer+%3A%3A+Backend+%26+Frontend;Java+%E2%80%A2+Kotlin+%E2%80%A2+.NET+%E2%80%A2+Node.js+%E2%80%A2+Python+%E2%80%A2+Go;Microservices+%E2%80%A2+Kafka+%E2%80%A2+Kubernetes+%E2%80%A2+CI%2FCD;Building+with+LLMs+%26+AI+automation+flows+%F0%9F%A4%96" alt="Typing intro" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=00F0FF&center=true&vCenter=true&width=700&lines=Software+Engineer+%3A%3A+Backend+%26+Frontend;Java+%E2%80%A2+Kotlin+%E2%80%A2+.NET+%E2%80%A2+Node.js+%E2%80%A2+Python+%E2%80%A2+Go;Microservices+%E2%80%A2+Kafka+%E2%80%A2+Kubernetes+%E2%80%A2+CI%2FCD;Building+with+LLMs+%26+AI+automation+flows+%F0%9F%A4%96;Self-hosting+LLMs+on+my+homelab+server+%F0%9F%96%A5%EF%B8%8F" alt="Typing intro" />
 
 </div>
 
@@ -38,7 +38,10 @@ const juliano: SoftwareEngineer = {
     ongoing: "B.Sc. Information Systems",
   },
 
-  currentlyBuilding: "personal projects with LLMs & AI automation flows 🤖",
+  currently: {
+    building: "personal projects with LLMs & AI automation flows 🤖",
+    learning: "self-hosting & configuring LLMs, building a homelab study server 🖥️",
+  },
 };
 ```
 
